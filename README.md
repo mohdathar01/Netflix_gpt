@@ -2,6 +2,9 @@
 
 -create react app
 -configured tailwin
+-Header
+-Loginform(sign in)
+-Sign up
 
 # Feature inside app
 

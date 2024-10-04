@@ -1,12 +1,8 @@
-import "./App.css";
-import "./Header";
+ import Body from "./components/Body";
+ 
 
 function App() {
-  return (
-    <div className="text-3xl font-bold text-green-800">
-       {<Header/>}
-    </div>
-  );
+  return  <Body/>
 }
 
 export default App;
