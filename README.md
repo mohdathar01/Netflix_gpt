@@ -3,8 +3,11 @@
 -create react app
 -configured tailwin
 -Header
+-Routing 
 -Loginform(sign in)
 -Sign up
+form validation 
+-useRef hook
 
 # Feature inside app
 
